@@ -1,0 +1,5 @@
+{
+  "/map/ground-floor/page": "app/map/ground-floor/page.js",
+  "/page": "app/page.js",
+  "/room/[id]/page": "app/room/[id]/page.js"
+}
